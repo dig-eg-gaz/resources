@@ -407,6 +407,9 @@
                                 <valItem ident="empty">
                                     <desc>Div is empty, often because an editor deleted default template.</desc>
                                 </valItem>
+                                <valItem ident="incomplete">
+                                    <desc>Div contains some but not all of the material it should.</desc>
+                                </valItem>
                             </valList>
                         </attDef>
                     </attList>
