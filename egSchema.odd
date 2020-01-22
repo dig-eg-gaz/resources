@@ -375,6 +375,9 @@
                                 <valItem ident="claimsEstate">
                                     <desc>Claims agains the Estate</desc>
                                 </valItem>
+                                <valItem ident="delegationMunicipale">
+                                    <desc>Delegation Municipale</desc>
+                                </valItem>
                             </valList>
                         </attDef>
                         <attDef ident="status" usage="rec" mode="add">
