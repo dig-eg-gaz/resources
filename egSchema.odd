@@ -378,6 +378,15 @@
                                 <valItem ident="delegationMunicipale">
                                     <desc>Delegation Municipale</desc>
                                 </valItem>
+                                <valItem ident="notice">
+                                    <desc>Notice / Avis / Tenders</desc>
+                                </valItem>
+                                <valItem ident="birthDeathMarriage">
+                                    <desc>Birth, Death, or Marriage Announcement</desc>
+                                </valItem>
+                                <valItem ident="obituary">
+                                    <desc>Obituary</desc>
+                                </valItem>
                             </valList>
                         </attDef>
                         <attDef ident="status" usage="rec" mode="add">
