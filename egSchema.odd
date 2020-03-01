@@ -132,9 +132,6 @@
                                 <valItem ident="shippingMovements">
                                     <desc>Shipping Movements / Mouvement Maritime</desc>
                                 </valItem>
-                                <valItem ident="navalNotes">
-                                    <desc>Naval Notes</desc>
-                                </valItem>
                                 <valItem ident="army">
                                     <desc>Army and Navy / Army of Occupation / Egyptian Army / Naval
                                         Notes</desc>
