@@ -232,11 +232,8 @@
                                     <desc>Société Internationale des Employés d'Alexandrie Bureau de
                                         Placement</desc>
                                 </valItem>
-                                <valItem ident="claimsEstate">
-                                    <desc>Claims agains the Estate</desc>
-                                </valItem>
-                                <valItem ident="municipality">
-                                    <desc>Municipality / Delegation Municipale</desc>
+                                 <valItem ident="municipality">
+                                    <desc>Municipality / Delegation Municipale / Commission Municipale / Alexandria Municipality</desc>
                                 </valItem>
                                 <valItem ident="notice">
                                     <desc>Notice / Avis / Tenders</desc>
