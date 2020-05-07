@@ -44,13 +44,10 @@
                                 <valItem ident="page"/>
                                 <valItem ident="section"/>
                                 <valItem ident="subsection"/>
-                                <valItem ident="article"/>
-                                <!-- now being deprecated -->
                                 <valItem ident="item"/>
                                 <valItem ident="wireReport"/>
                                 <valItem ident="advert"/>
                                 <valItem ident="nameplate"/>
-                                <valItem ident="feature"/>
                             </valList>
                         </attDef>
                         <attDef ident="colSpan" usage="rec" mode="add">
