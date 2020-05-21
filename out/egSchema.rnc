@@ -8,7 +8,7 @@ namespace teix = "http://www.tei-c.org/ns/Examples"
 namespace xi = "http://www.w3.org/2001/XInclude"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2020-05-07T21:47:31Z. .
+# Schema generated from ODD source 2020-05-21T22:02:08Z. .
 # TEI Edition: Version 3.6.0. Last updated on
 #	16th July 2019, revision daa3cc0b9
 # TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.6.0/
@@ -4511,27 +4511,24 @@ floatingText =
     attribute type {
       
       ##
-      "masthead"
+      "page"
       | 
-        ##
-        "page"
-      | 
-        ##
+        ## A section-type division contains item-type divisions.
         "section"
       | 
-        ##
+        ## Use sparingly.
         "subsection"
       | 
         ##
         "item"
       | 
-        ##
-        "wireReport"
+        ## Cable received via telegram service (Reuters or Havas). Typically, this div cointains a dateline.
+        "cable"
       | 
         ##
         "advert"
       | 
-        ##
+        ## Flag running across all columns at the top of the front page.
         "nameplate"
     },
     
