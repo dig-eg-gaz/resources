@@ -31,6 +31,24 @@
                 <moduleRef key="transcr" include=""/>
                 <!--  -->
                 <!--  -->
+                <elementSpec ident="editor" mode="change">
+                    <attList>
+                        <attDef ident="type" usage="rec" mode="change">
+                            <gloss>The editor type can be added.</gloss>
+                            <datatype>
+                                <rng:ref name="datatype.Code"/>
+                            </datatype>
+                            <valList type="closed" mode="replace">
+                                <valItem ident="first">
+                                    <desc>The person who created this file.</desc>
+                                </valItem>
+                                <valItem ident="verifier">
+                                    <desc>A person who reviewed the file for accuracy.</desc>
+                                </valItem>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
                 <!--  -->
                 <elementSpec ident="div" mode="change">
                     <attList>
@@ -41,15 +59,23 @@
                             </datatype>
                             <valList type="closed" mode="replace">
                                 <valItem ident="page"/>
-                                <valItem ident="section"><desc>A section-type division contains item-type divisions.</desc></valItem>
-                                <valItem ident="subsection"><desc>Use sparingly.</desc></valItem>
+                                <valItem ident="section">
+                                    <desc>A section-type division contains item-type
+                                        divisions.</desc>
+                                </valItem>
+                                <valItem ident="subsection">
+                                    <desc>Use sparingly.</desc>
+                                </valItem>
                                 <valItem ident="item"/>
                                 <valItem ident="cable">
                                     <desc>Cable received via telegram service (Reuters or Havas).
                                         Typically, this div cointains a dateline.</desc>
                                 </valItem>
                                 <valItem ident="advert"/>
-                                <valItem ident="nameplate"><desc>Flag running across all columns at the top of the front page.</desc></valItem>
+                                <valItem ident="nameplate">
+                                    <desc>Flag running across all columns at the top of the front
+                                        page.</desc>
+                                </valItem>
                             </valList>
                         </attDef>
                         <attDef ident="colSpan" usage="rec" mode="add">
