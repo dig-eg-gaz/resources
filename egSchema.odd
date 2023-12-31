@@ -63,9 +63,6 @@
                                     <desc>A section-type division contains item-type
                                         divisions.</desc>
                                 </valItem>
-                                <valItem ident="subsection">
-                                    <desc>Use sparingly.</desc>
-                                </valItem>
                                 <valItem ident="item"/>
                                 <valItem ident="cable">
                                     <desc>Cable received via telegram service (Reuters or Havas).
