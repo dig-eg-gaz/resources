@@ -226,9 +226,9 @@
                                     <desc>Chronique Theatrale / Abbas Helmy Theatre / Alhambra
                                         Theatre / Zizinia Theatre</desc>
                                 </valItem>
-                                <valItem ident="masthead">
-                                    <desc>Egyptian Gazette masthead including date and
-                                        publisher</desc>
+                                <valItem ident="imprint">
+                                    <desc>Egyptian Gazette publishing information including date and
+                                        address</desc>
                                 </valItem>
                                 <valItem ident="cottonMarket">
                                     <desc>The Cotton Market. Kearsley and Cunningham’s Weekly
