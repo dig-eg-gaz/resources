@@ -73,6 +73,9 @@
                                     <desc>Flag running across all columns at the top of the front
                                         page.</desc>
                                 </valItem>
+                                <valItem ident="template">
+                                    <desc>Recurring pre-formatted division or table, in which some numbers or other content may vary from day to day.</desc>
+                                </valItem>
                             </valList>
                         </attDef>
                         <attDef ident="colSpan" usage="rec" mode="add">
