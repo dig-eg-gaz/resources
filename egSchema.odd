@@ -254,6 +254,12 @@
                                 <valItem ident="specialCables">
                                     <desc>Our Special Cables</desc>
                                 </valItem>
+                                <valItem ident="stocksShares">
+                                    <desc>Stocks and Shares / Share List / Bourse du Caire / London Stock Exchange</desc>
+                                </valItem>
+                                <valItem ident="cottonContracts">
+                                    <desc>Various listings of cotton prices</desc>
+                                </valItem>
                             </valList>
                         </attDef>
                         <attDef ident="status" usage="rec" mode="add">
