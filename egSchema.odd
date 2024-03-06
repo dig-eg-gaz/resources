@@ -74,7 +74,8 @@
                                         page.</desc>
                                 </valItem>
                                 <valItem ident="template">
-                                    <desc>Recurring pre-formatted division or table, in which some numbers or other content may vary from day to day.</desc>
+                                    <desc>Recurring pre-formatted division or table, in which some
+                                        numbers or other content may vary from day to day.</desc>
                                 </valItem>
                             </valList>
                         </attDef>
@@ -255,10 +256,13 @@
                                     <desc>Our Special Cables</desc>
                                 </valItem>
                                 <valItem ident="stocksShares">
-                                    <desc>Stocks and Shares / Share List / Bourse du Caire / London Stock Exchange</desc>
+                                    <desc>Stocks and Shares / Share List / Bourse du Caire /
+                                        Telegramme Havas / London Stock Exchange</desc>
                                 </valItem>
                                 <valItem ident="cottonContracts">
-                                    <desc>Various listings of cotton prices</desc>
+                                    <desc>Association des Courtiers en Marchandises / Alexandria
+                                        General Produce Association / Bourse Khédiviale / Dernière
+                                        Heure/ Primes des Contrats</desc>
                                 </valItem>
                             </valList>
                         </attDef>

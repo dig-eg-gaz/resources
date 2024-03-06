@@ -7,7 +7,7 @@ namespace teix = "http://www.tei-c.org/ns/Examples"
 namespace xi = "http://www.w3.org/2001/XInclude"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2024-03-06T21:23:42Z. .
+# Schema generated from ODD source 2024-03-06T21:58:58Z. .
 # TEI Edition: Version 4.6.0. Last updated on
 #         4th April 2023, revision f18deffba
 # TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.6.0/
@@ -5332,10 +5332,10 @@ floatingText =
         ## Our Special Cables
         "specialCables"
       | 
-        ## Stocks and Shares / Share List / Bourse du Caire / London Stock Exchange
+        ## Stocks and Shares / Share List / Bourse du Caire / Telegramme Havas / London Stock Exchange
         "stocksShares"
       | 
-        ## Various listings of cotton prices
+        ## Association des Courtiers en Marchandises / Alexandria General Produce Association / Bourse Khédiviale / Dernière Heure/ Primes des Contrats
         "cottonContracts"
     }?,
     
