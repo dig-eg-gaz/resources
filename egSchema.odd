@@ -264,6 +264,9 @@
                                         General Produce Association / Bourse Khédiviale / Dernière
                                         Heure/ Primes des Contrats</desc>
                                 </valItem>
+                                <valItem ident="leader">
+                                    <desc>Leader article on page 2.</desc>
+                                </valItem>
                             </valList>
                         </attDef>
                         <attDef ident="status" usage="rec" mode="add">

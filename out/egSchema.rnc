@@ -7,7 +7,7 @@ namespace teix = "http://www.tei-c.org/ns/Examples"
 namespace xi = "http://www.w3.org/2001/XInclude"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2024-03-06T22:20:05Z. .
+# Schema generated from ODD source 2024-05-21T18:18:55Z. .
 # TEI Edition: Version 4.6.0. Last updated on
 #         4th April 2023, revision f18deffba
 # TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.6.0/
@@ -5337,6 +5337,9 @@ floatingText =
       | 
         ## Cotons / Association des Courtiers en Marchandises / Alexandria General Produce Association / Bourse Khédiviale / Dernière Heure/ Primes des Contrats
         "cottonContracts"
+      | 
+        ## Leader article on page 2.
+        "leader"
     }?,
     
     ## Used to indicate whether the contents of a div have been verified by an editor, and to indicate further details about the status of those contents.
